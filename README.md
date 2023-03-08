@@ -1,2 +1,2 @@
-# Pygame-pong
- joc in pygame
+# Pong!
+ Jocul arcade Pong! (initial aparut in 1972) recreat in Python folosind modulul Pygame.

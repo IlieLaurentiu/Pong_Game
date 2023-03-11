@@ -1,6 +1,6 @@
 from Assets.Scripts import Application
 
-# run the application
+# run the game
 def main():
    Application.Game.Run() 
 
